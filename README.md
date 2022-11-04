@@ -2,6 +2,12 @@
 
 I am a software developer
 
+English - German
+
+#### Tech Stacks
+- Java / JavaFX
+- Python / NumPy / Pandas / Matplotlib
+- HTML / CSS / Javascript / React / MaterialUI
 
 <!--
 **JefferyAyiti/JefferyAyiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
