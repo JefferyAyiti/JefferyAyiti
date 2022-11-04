@@ -1,14 +1,21 @@
-### Welcome 
+# Welcome 
 
-I am a software developer
+I am a software developer.
 
 ### Spoken Languages
 🇬🇧 English - 🇩🇪 German
 
-#### Tech Stacks
-- Java / JavaFX
+### Tech Stacks 
+- Java / JavaFX 
 - HTML / CSS / Javascript / React / MaterialUI / Django
-- Python / NumPy / Pandas / Matplotlib
+- Python / JupyterNotebook / NumPy / Pandas / Matplotlib
+- PostgreSQL
+
+### Process Tools
+- Git
+- U.M.L
+- SonarQube
+- SCRUM
 
 
 <!--
