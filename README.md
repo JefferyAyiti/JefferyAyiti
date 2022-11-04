@@ -1,6 +1,6 @@
 # Welcome 
 
-I am a software developer.
+I am a writer on a journey to express my imaginatition through software development. 
 
 ### Spoken Languages
 🇬🇧 English - 🇩🇪 German
@@ -8,7 +8,7 @@ I am a software developer.
 ### Tech Stacks 
 - Java / JavaFX 
 - HTML / CSS / Javascript / React / MaterialUI / Django
-- Python / JupyterNotebook / NumPy / Pandas / Matplotlib
+- Python / Jupyter / NumPy / Pandas / Matplotlib
 - PostgreSQL
 
 ### Process Tools
