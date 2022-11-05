@@ -18,7 +18,12 @@ I am a writer on a journey to express my imaginatition through software developm
 - SCRUM
 
 #### WebDev Showcase
-[!Link] https://chipper-youtiao-6e65b7.netlify.app
+React Learning Project 1
+[Monsters Rolodex]
+
+React Learning Project 2
+[Crwn Clothing](https://chipper-youtiao-6e65b7.netlify.app)
+
 
 #### Active Projects
 - Shingles
