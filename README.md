@@ -7,7 +7,8 @@ I am a writer on a journey to express my imaginatition through software developm
 
 ### Tech Stacks 
 - Java / JavaFX 
-- HTML / CSS / Javascript / React / MaterialUI / Django
+- HTML / CSS / Javascript / React / MaterialUI 
+- HTML / SCSS / VueJS / Quasar Framework / Firebase
 - Python / Jupyter / NumPy / Pandas / Matplotlib
 - PostgreSQL
 
