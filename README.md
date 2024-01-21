@@ -11,6 +11,7 @@ I am a writer on a journey to express my imaginatition through software developm
 - HTML / SCSS / VueJS / Quasar Framework / Firebase
 - Python / Jupyter / NumPy / Pandas / Matplotlib
 - PostgreSQL
+- Golang
 
 ### Process Tools
 - Git
